@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 450px;
+    height: 250px;
+}
+
+#home{
+    background-color: cornflowerblue;
+    color: aliceblue;
+}
+
+#skills{
+    background-color:blanchedalmond;
+    color: coral;
+}
+
+#techgoals{
+    background-color: burlywood;
+    color: brown;
+}
+
+#profgoals{
+    background-color: violet;
+    color: darkviolet;
+}
